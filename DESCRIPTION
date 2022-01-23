@@ -1,12 +1,10 @@
 Package: regexcite
-Title: What the Package Does (One Line, Title Case)
+Title: Make regular expressions more exciting
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Katia", "Aristova", , "k.aristova@gmail.com", role = c("aut", "cre"))
+Description: Convenience functions to make common string operations and regular expressions easier.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
